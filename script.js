@@ -1,6 +1,6 @@
 // Base de perguntas para Maridos
 const questionsMaridos = [
-    { id: 1, options: [{ text: 'Gostaria que minha esposa me enviasse e-mail ou torpedos apaixonados.', value: 'A' }, { text: 'Gostaria de receber mais abraços de minha esposa.', value: 'E' }] },
+    { id: 1, options: [{ text: 'Gostaria que minha esposa me enviasse mensagens apaixonados.', value: 'A' }, { text: 'Gostaria de receber mais abraços de minha esposa.', value: 'E' }] },
     { id: 2, options: [{ text: 'Gostaria de passar mais tempo sozinho com minha esposa.', value: 'B' }, { text: 'Gosto de fazer serviços de casa com minha esposa.', value: 'D' }] },
     { id: 3, options: [{ text: 'Receber presentes especiais de minha esposa é algo que me deixa feliz.', value: 'C' }, { text: 'Uma das coisas de que mais gosto é viajar com minha esposa.', value: 'B' }] },
     { id: 4, options: [{ text: 'Gostaria que minha esposa fizesse as compras ou abastecesse meu carro.', value: 'D' }, { text: 'Gostaria que minha esposa me tocasse mais.', value: 'E' }] },
@@ -34,12 +34,12 @@ const questionsMaridos = [
 
 // Base de perguntas para Esposas
 const questionsEsposas = [
-    { id: 1, options: [{ text: 'Eu adoraria receber um e-mail ou torpedo romântico do meu marido.', value: 'A' }, { text: 'Gostaria que meu marido me abraçasse mais.', value: 'E' }] },
+    { id: 1, options: [{ text: 'Eu adoraria receber uma mensagem romântica do meu marido.', value: 'A' }, { text: 'Gostaria que meu marido me abraçasse mais.', value: 'E' }] },
     { id: 2, options: [{ text: 'Gosto de ficar mais sozinha com meu marido.', value: 'B' }, { text: 'Gostaria que meu marido fizesse alguma tarefa doméstica sem que eu precisasse pedir.', value: 'D' }] },
     { id: 3, options: [{ text: 'Adoraria que meu marido me trouxesse um presente do tipo "comprei porque tive vontade".', value: 'C' }, { text: 'Gosto de fazer longas viagens com meu marido.', value: 'B' }] },
     { id: 4, options: [{ text: 'Eu me sentiria muito amada se meu marido lavasse as roupas.', value: 'D' }, { text: 'Gosto quando meu marido me toca.', value: 'E' }] },
     { id: 5, options: [{ text: 'Gostaria que meu marido me abraçasse de vez em quando.', value: 'E' }, { text: 'Gostaria que meu marido me trouxesse presente quando viajasse.', value: 'C' }] },
-    { id: 6, options: [{ text: 'Estarei com meu marido se ele compartilhasse minha paixão por irmos a lugares juntos.', value: 'B' }, { text: 'Gosto de segurar a mão de meu marido.', value: 'E' }] },
+    { id: 6, options: [{ text: 'Ficaria feliz se eu e meu marido fôssemos a lugares juntos.', value: 'B' }, { text: 'Gosto de segurar a mão de meu marido.', value: 'E' }] },
     { id: 7, options: [{ text: 'Sinto-me amada quando meu marido me dá presentes.', value: 'C' }, { text: 'Sei que meu marido me ama, mas gosto de ouvir ele dizer isso.', value: 'A' }] },
     { id: 8, options: [{ text: 'Gosto que meu marido se sente perto de mim.', value: 'E' }, { text: 'Gostaria que meu marido sempre me dissesse que sou bonita.', value: 'A' }] },
     { id: 9, options: [{ text: 'Passar tempo com meu marido me deixa feliz.', value: 'B' }, { text: 'Gostaria que meu marido me desse presentes pequenos, mas significativos.', value: 'C' }] },
