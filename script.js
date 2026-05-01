@@ -59,7 +59,7 @@ const questionsEsposas = [
     { id: 23, options: [{ text: 'Gostaria que meu marido me desse presentes com mais frequência.', value: 'C' }, { text: 'Gostaria que meu marido me ajudasse sem que eu precisasse pedir.', value: 'D' }] },
     { id: 24, options: [{ text: 'Fico chateada quando meu marido me interrompe.', value: 'B' }, { text: 'Nunca me canso de receber presentes de meu marido.', value: 'C' }] },
     { id: 25, options: [{ text: 'Gostaria que meu marido se oferecesse para me ajudar quando eu estiver cansada.', value: 'D' }, { text: 'Gosto de ir a qualquer lugar com meu marido.', value: 'B' }] },
-    { id: 26, options: [{ text: 'Gostaria que meu marido e eu nos afagássemos com mais frequência.', value: 'E' }, { text: 'Gostaria que meu marido me surpreendesse mais frequentemente com presentes.', value: 'C' }] },
+    { id: 26, options: [{ text: 'Gostaria que meu marido trocassemos carinhos com mais frequência.', value: 'E' }, { text: 'Gostaria que meu marido me surpreendesse mais frequentemente com presentes.', value: 'C' }] },
     { id: 27, options: [{ text: 'Os incentivos de meu marido me dão confiança.', value: 'A' }, { text: 'Adoro assistir a filmes com meu marido.', value: 'B' }] },
     { id: 28, options: [{ text: 'Gostaria que o meu marido me desse um presente fora de alguma ocasião especial.', value: 'C' }, { text: 'Gostaria muito que meu marido me tocasse mais.', value: 'E' }] },
     { id: 29, options: [{ text: 'O fato de meu marido me ajudar é muito significativo para mim.', value: 'D' }, { text: 'Gostaria que meu marido dissesse: "gosto de você".', value: 'A' }] },
